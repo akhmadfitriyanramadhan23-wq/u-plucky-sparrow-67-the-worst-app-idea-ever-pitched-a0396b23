@@ -4,8 +4,8 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const line =
-  "DoorSense Pro uses military-grade AI to announce in half a second " +
-  "whether your front door is open or closed, then texts you the verdict " +
+  "DoorSense Pro uses military-grade AI to announce whether your front " +
+  "door is open or closed, then texts you the verdict for $9.99 a month " +
   "while you stare straight at it, after founder Gary Vance burned " +
   "$412,000 and three years building it.";
 
